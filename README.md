@@ -30,11 +30,12 @@ O projeto está em fase de desenvolvimento. As análises e visualizações bási
 ## Exemplos de uso do projeto
 
 Aqui estão alguns exemplos visuais das análises realizadas:
+![Exemplo de Análise](visualization-dashboard/contagem_de_pilotos_por_ano_de_nascimento.png)
+*Figura 1: Contagem de Pilotos por Ano de Nascimento*
 
-![Exemplo de Análise](visualization-dashboard/Contagem de  pilotos por ano de nascimento.png)
+![Exemplo de Análise](visualization-dashboard/contagem_de_pilotos_por_nacionalidade.png)
+*Figura 2: Contagem de Pilotos por Nacionalidade*
 
-
-![Exemplo de Analise](visualization-dashboard/Contagem de pilotos por nacionalidade.png)
 
 
 ## Colaboradores
